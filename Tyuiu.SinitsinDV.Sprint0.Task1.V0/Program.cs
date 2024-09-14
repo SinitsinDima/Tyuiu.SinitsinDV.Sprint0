@@ -1,10 +1,10 @@
 ﻿namespace Tyuiu.SinitsinDV.Sprint0.Task1.V0
 {
-    static class programm 
+    internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, world");           
+            Console.WriteLine("Hello, World!");
             string name = "Дима";
             int age = 18;
             Console.WriteLine("Здравствуйте меня зовут " + name + " мне " + age + " лет!");
